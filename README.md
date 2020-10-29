@@ -1,5 +1,24 @@
 # Jucimara Pereira :octocat:
 
+<img src = "https://github.com/Jucimara-Pereira/Jucimara-Pereira/blob/main/personalizacao/apresentacao.jpg" width="250" title="Maria Jucimara Pereira Ferreira">
+
+<div align="rigth">
+  <h3 align="rigth">Contate-me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="rigth">
+ <a href="https://www.linkedin.com/in/maricimara98/" target="blank">
+  <img align="rigth" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/maricimara98/" target="blank">
+  <img align="rigth" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/maricimara98" target="blank">
+  <img align="rigth" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+  <a href="https://facebook.com/maricimara98" target="blank">
+  <img align="rigth" alt="Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
+ </a>
+  
 ### :mortar_board: Graduando:
 bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão)
 
