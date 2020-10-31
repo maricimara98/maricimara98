@@ -1,6 +1,6 @@
 # Jucimara Pereira :octocat:
 
-<img src = "https://github.com/Jucimara-Pereira/Jucimara-Pereira/blob/main/personalizacao/apresentacao.jpg" width="250" title="Maria Jucimara Pereira Ferreira">
+<img src = "https://github.com/maricimara98/maricimara98/blob/main/personalizacao/apresentacao.jpg" width="250" title="Maria Jucimara Pereira Ferreira">
 
 <div align="rigth">
   <h3 align="rigth">Contate-me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -34,14 +34,14 @@ bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão
 
 <details markdown='1'><summary>Estrutura de Dados I</summary>
 
-- [TAD: cofo](https://github.com/Jucimara-Pereira/estrutura-de-dados/tree/master/cofo)
+- [TAD: cofo](https://github.com/maricimara98/estrutura-de-dados/tree/master/cofo)
 
 </details>
 
 <details markdown='1'><summary>Estrutura de Dados II</summary>
 
-- [Ordenação](https://github.com/Jucimara-Pereir/estrutura-de-dados-ii/tree/main/T1_ordenacao)
-- [Pesquisa](https://github.com/Jucimara-Pereir/estrutura-de-dados-ii/tree/main/T2_pesquisa)
+- [Ordenação](https://github.com/maricimara98/estrutura-de-dados-ii/tree/main/T1_ordenacao)
+- [Pesquisa](https://github.com/maricimara98/estrutura-de-dados-ii/tree/main/T2_pesquisa)
 
 </details>
 
@@ -50,8 +50,8 @@ bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão
 
 <details markdown='1'><summary>Exercicios URI</summary>
 
-- [C](https://github.com/Jucimara-Pereira/exercicios-uri/tree/master/C)
-- [Java](https://github.com/Jucimara-Pereira/exercicios-uri/tree/master/Java)
+- [C](https://github.com/maricimara98/exercicios-uri/tree/master/C)
+- [Java](https://github.com/maricimara98/exercicios-uri/tree/master/Java)
 
 </details>
 
