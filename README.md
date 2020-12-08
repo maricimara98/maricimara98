@@ -3,7 +3,7 @@
 <img src = "https://github.com/maricimara98/maricimara98/blob/main/personalizacao/apresentacao.jpg" width="250" title="Maria Jucimara Pereira Ferreira">
 
 <div align="rigth">
-  <h3 align="rigth">Contate-me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="rigth">Contate-me</h3> 
 </div>
 <p align="rigth">
  <a href="https://www.linkedin.com/in/maricimara98/" target="blank">
