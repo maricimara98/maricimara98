@@ -30,33 +30,6 @@ bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão
 - :speech_balloon: Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - :mailbox: Envie-me um e-mail se tiver alguma dúvida.
 
-## Repositórios
-
-<details markdown='1'><summary>Estrutura de Dados I</summary>
-
-- [TAD: cofo](https://github.com/maricimara98/estrutura-de-dados/tree/master/cofo)
-
-</details>
-
-<details markdown='1'><summary>Estrutura de Dados II</summary>
-
-- [Ordenação](https://github.com/maricimara98/estrutura-de-dados-ii/tree/main/T1_ordenacao)
-- [Pesquisa](https://github.com/maricimara98/estrutura-de-dados-ii/tree/main/T2_pesquisa)
-
-</details>
-
-<details markdown='1'><summary>Paradigmas de Programação</summary>
-</details>
-
-<details markdown='1'><summary>Exercicios URI</summary>
-
-- [C](https://github.com/maricimara98/exercicios-uri/tree/master/C)
-- [Java](https://github.com/maricimara98/exercicios-uri/tree/master/Java)
-
-</details>
-
-<!-- --------------- -->
-
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
