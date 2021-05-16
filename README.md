@@ -24,7 +24,7 @@ bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão
 
 ### Sobre mim:
 
-- :woman: 💻 Atualmente, sou estudante de computação no meu 5º período;
+- :woman: 💻 Atualmente, sou estudante de computação no meu 7º período;
 - 🤔 Interessada em Java, Python, C, Flutter etc ..;
 - :construction: Estou buscando um diploma de bacharel em ciência da computação;
 - :speech_balloon: Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
