@@ -1,6 +1,6 @@
 # Jucimara Pereira :octocat:
 
-<img src = "https://github.com/maricimara98/maricimara98/blob/main/personalizacao/apresentacao.jpg" width="200" title="Maria Jucimara Pereira Ferreira">
+<img src = "https://github.com/maricimara98/maricimara98/blob/main/personalizacao/apresentacao.jpg" width="150" title="Maria Jucimara Pereira Ferreira">
 
 <div align="rigth">
   <h3 align="rigth">Contate-me</h3> 
@@ -22,9 +22,8 @@
 ### :mortar_board: Graduando:
 bacharel em Ciência da Computação, na UFMA (Universidade Federal do Maranhão)
 
-### Sobre mim:
+### Sobre mim :woman:💻:
 
-- :woman: 💻 Atualmente, sou estudante de computação no meu 7º período;
 - 🤔 Interessada em Java, Python, C, Flutter etc ..;
 - :construction: Estou buscando um diploma de bacharel em ciência da computação;
 - :speech_balloon: Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
