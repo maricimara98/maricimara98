@@ -1,7 +1,5 @@
 <h1 align="center">Oi 👋, Sou Jucimara Pereira :octocat:</h1>
-<h3 align="center">Uma desenvolvedora apaixonada </p>
-<img src = "https://github.com/maricimara98/maricimara98/blob/main/personalizacao/apresentacao.jpg" width="150" title="Maria Jucimara Pereira Ferreira">
-</h3>
+<h3 align="center">Bem vindo(a) ao meu perfil</h3>
 
 ### Sobre mim :woman:💻:
 - :mortar_board: Graduando:
